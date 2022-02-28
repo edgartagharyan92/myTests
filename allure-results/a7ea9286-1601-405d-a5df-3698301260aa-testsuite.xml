@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1646039322187' stop='1646039330728'>
+    <name>check the login with invalid credentials</name>
+    <title>check the login with invalid credentials</title>
+    <test-cases>
+        <test-case start='1646039322187' status='passed' stop='1646039327306'>
+            <name>Error message should appear when login with invalid credentials</name>
+            <title>Error message should appear when login with invalid credentials</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1646039327307' status='passed' stop='1646039330664'>
+            <name>Error message should appear when email format is Invalid</name>
+            <title>Error message should appear when email format is Invalid</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

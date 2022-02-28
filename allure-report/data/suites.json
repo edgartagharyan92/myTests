@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "check the login with invalid credentials",
+    "children" : [ {
+      "name" : "Error message should appear when login with invalid credentials",
+      "uid" : "ca08d7ad1f85dd8d",
+      "parentUid" : "af8fc3851d1059df039868a01688ad73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646039322187,
+        "stop" : 1646039327306,
+        "duration" : 5119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Error message should appear when email format is Invalid",
+      "uid" : "2a08fb76291c81e6",
+      "parentUid" : "af8fc3851d1059df039868a01688ad73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646039327307,
+        "stop" : 1646039330664,
+        "duration" : 3357
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "af8fc3851d1059df039868a01688ad73"
+  } ]
+}

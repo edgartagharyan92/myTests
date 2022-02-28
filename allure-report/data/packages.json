@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "check the login with invalid credentials",
+    "children" : [ {
+      "name" : "Error message should appear when login with invalid credentials",
+      "uid" : "ca08d7ad1f85dd8d",
+      "parentUid" : "8be6291982cf2dce241bd6ae5f3a21ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646039322187,
+        "stop" : 1646039327306,
+        "duration" : 5119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Error message should appear when email format is Invalid",
+      "uid" : "2a08fb76291c81e6",
+      "parentUid" : "8be6291982cf2dce241bd6ae5f3a21ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646039327307,
+        "stop" : 1646039330664,
+        "duration" : 3357
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8be6291982cf2dce241bd6ae5f3a21ab"
+  } ]
+}

@@ -1,0 +1,21 @@
+[ {
+  "uid" : "ca08d7ad1f85dd8d",
+  "name" : "Error message should appear when login with invalid credentials",
+  "time" : {
+    "start" : 1646039322187,
+    "stop" : 1646039327306,
+    "duration" : 5119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a08fb76291c81e6",
+  "name" : "Error message should appear when email format is Invalid",
+  "time" : {
+    "start" : 1646039327307,
+    "stop" : 1646039330664,
+    "duration" : 3357
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

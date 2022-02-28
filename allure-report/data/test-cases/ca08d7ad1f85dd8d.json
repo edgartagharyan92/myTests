@@ -1,0 +1,50 @@
+{
+  "uid" : "ca08d7ad1f85dd8d",
+  "name" : "Error message should appear when login with invalid credentials",
+  "fullName" : "check the login with invalid credentials.Error message should appear when login with invalid credentials",
+  "historyId" : "e55cb98d12c4f6f4df1a7391a90299aa",
+  "time" : {
+    "start" : 1646039322187,
+    "stop" : 1646039327306,
+    "duration" : 5119
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "check the login with invalid credentials"
+  }, {
+    "name" : "testClass",
+    "value" : "check the login with invalid credentials"
+  }, {
+    "name" : "testMethod",
+    "value" : "Error message should appear when login with invalid credentials"
+  }, {
+    "name" : "package",
+    "value" : "check the login with invalid credentials"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca08d7ad1f85dd8d.json",
+  "parameterValues" : [ ]
+}

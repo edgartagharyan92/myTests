@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Feb 28 13:08:42 AMT 2022","Mon Feb 28 13:08:47 AMT 2022","5119","","check the login with invalid credentials","","check the login with invalid credentials","Error message should appear when login with invalid credentials","Error message should appear when login with invalid credentials",""
+"passed","Mon Feb 28 13:08:47 AMT 2022","Mon Feb 28 13:08:50 AMT 2022","3357","","check the login with invalid credentials","","check the login with invalid credentials","Error message should appear when email format is Invalid","Error message should appear when email format is Invalid",""

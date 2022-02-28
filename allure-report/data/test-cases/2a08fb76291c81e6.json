@@ -1,0 +1,50 @@
+{
+  "uid" : "2a08fb76291c81e6",
+  "name" : "Error message should appear when email format is Invalid",
+  "fullName" : "check the login with invalid credentials.Error message should appear when email format is Invalid",
+  "historyId" : "43c7e45eb0e3b86f14dbb6fcfa103b55",
+  "time" : {
+    "start" : 1646039327307,
+    "stop" : 1646039330664,
+    "duration" : 3357
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "check the login with invalid credentials"
+  }, {
+    "name" : "testClass",
+    "value" : "check the login with invalid credentials"
+  }, {
+    "name" : "testMethod",
+    "value" : "Error message should appear when email format is Invalid"
+  }, {
+    "name" : "package",
+    "value" : "check the login with invalid credentials"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a08fb76291c81e6.json",
+  "parameterValues" : [ ]
+}

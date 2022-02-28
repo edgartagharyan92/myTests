@@ -1,0 +1,17 @@
+{
+  "MyAccountButton": {
+    "locator": "by.id(\"ma\")"
+  },
+  "UserNameField": {
+    "locator": "by.id(\"_idyour_email\")"
+  },
+  "PasswordField": {
+    "locator": "by.id(\"_idpassword\")"
+  },
+  "SubmitToLogin": {
+    "locator": "by.id(\"loginaction__form_action0\")"
+  },
+  "ErrorMessage": {
+    "locator": "by.className(\"error\")"
+  }
+}
